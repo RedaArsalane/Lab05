@@ -1,7 +1,5 @@
 <?php
-
 require_once 'database.php';
-
 if (!empty($_POST)) {
 
     $titleError = null;
@@ -30,7 +28,6 @@ if (!empty($_POST)) {
     }
 }
 ?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
