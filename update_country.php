@@ -66,7 +66,9 @@ if (!empty($_POST)) {
 <head>
     <meta charset="utf-8">
     <link href="css/bootstrap.css" rel="stylesheet">
-    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap.js"></script>	
+    <script type="text/javascript" src="js/script.js"></script>
+
 </head>
 
 <body>
