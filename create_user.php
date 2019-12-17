@@ -21,7 +21,7 @@ if (!empty($_POST)) {
     $Email = trim($_POST['email']);
     $valid = true;
 
-    // Validate
+    
     if (empty($firstName)) {
         $NameError = "please add country";
         $valid = false;
